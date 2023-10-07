@@ -6,7 +6,10 @@ h1{
 body{
     background-color: black;
 }
-.header{
-    display:inline-block;
-    color:azure;
+h2{
+    display: inline-block;
+    margin:10px;
+}
+nav{
+    text-align: center;
 }
