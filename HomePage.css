@@ -18,7 +18,13 @@ li{
     color: red;
 }
 .cart{
+display: none;
 max-width: 100%;
 height: auto;
+
+
+}
+a:hover.cart{
+display:block
 
 }
