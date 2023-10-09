@@ -13,3 +13,12 @@ h2{
 nav{
     text-align: center;
 }
+li{
+    list-style: none;
+    color: red;
+}
+.cart{
+max-width: 100%;
+height: auto;
+
+}
