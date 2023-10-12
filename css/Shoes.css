@@ -1,0 +1,32 @@
+
+.shoe {
+    display: flex;
+    object-fit:cover;
+    height: 15rem;
+    width: 15rem;
+    margin: auto;
+}
+
+main {
+    position: relative;
+    width: 90vw;
+    height: 50vh;
+}
+
+#jordan {
+position: absolute;
+left: 8%;
+top:50%
+}
+
+#chuck {
+    position: absolute;
+    left: 35%;
+    top:52%;
+}
+#dunk{
+    position: absolute;
+    left:68%;
+    top:52%
+}
+

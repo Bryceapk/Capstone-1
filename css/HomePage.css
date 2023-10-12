@@ -1,30 +1,25 @@
-h1 {
+h1{
     text-align: center;
     font-family: fantasy;
     color: red;
     font-size: 4em;
 }
 
-body {
+body{
     background-color: black;
     text-align: center;
 }
 
-h2 {
-    display: inline-block;
-    margin: 10px;
-}
-
-nav {
+nav{
     text-align: center;
 }
 
-li {
+li{
     list-style: none;
     color: red;
 }
 
-.big-nav {
+.big-nav{
     text-align: center;
     position: relative;
     display: flex;
@@ -36,8 +31,8 @@ li {
     width: 80vw;
 }
 
-main a {
-    color: #FFFFFF88;
+main a{
+    color: #00000088;
     font-size: 6rem;
     font-weight: bold;
     text-decoration: none;
@@ -45,18 +40,18 @@ main a {
     transition: all .3s ease-out;
 }
 
-main a:hover .big-nav img {
+main a:hover .big-nav img{
     transition: all .3s ease-out;
     width: 70vw;
     height: 35vw;
 }
 
-main a:hover {
+main a:hover{
     transition: all .3s ease-out;
-    color: #FFFFFFFF;
+    color: #000;
 }
 
-.big-nav img {
+.big-nav img{
     transition: all .3s ease-out;
     height: 40vw;
     width: 80vw;
@@ -69,3 +64,21 @@ main a:hover {
     right: 0;
     z-index: -1;
 }
+.contact{
+    text-decoration: none;
+}
+.bottom{
+    display: inline-block;
+}
+li a:hover{
+    color: #FFFFFFFF;
+}
+p{
+    color: red;
+    font-family: fantasy;
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+

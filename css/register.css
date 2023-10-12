@@ -1,7 +1,6 @@
 #exampleModal{
-    margin-top: 150px;
-}
-body{ background-color: black;
+    position: absolute;
+    top:9%;
 }
 h1{
     text-align: center;
@@ -9,6 +8,10 @@ h1{
     color:red;
     font-size: 4em;
 }
-.modal-footer{
-    color: red;
+body{
+    background-image:url(https://wallpapers-clan.com/wp-content/uploads/2020/10/nike-air-force-1-shoes-white-black-background-wallpaper-scaled.jpg);
+}
+#example{
+position: absolute;
+top:75%
 }
