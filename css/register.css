@@ -1,17 +1,21 @@
-#exampleModal{
+#exampleModal {
     position: absolute;
-    top:9%;
+    top: 9%;
 }
-h1{
+
+h1 {
     text-align: center;
-    font-family:fantasy;
-    color:red;
+    font-family: fantasy;
+    color: red;
     font-size: 4em;
 }
-body{
-    background-image:url(https://wallpapers-clan.com/wp-content/uploads/2020/10/nike-air-force-1-shoes-white-black-background-wallpaper-scaled.jpg);
+
+body {
+    background-image: url(https://wallpapers-clan.com/wp-content/uploads/2020/10/nike-air-force-1-shoes-white-black-background-wallpaper-scaled.jpg);
+    background-size: cover;
 }
-#example{
-position: absolute;
-top:75%
+
+#example {
+    position: absolute;
+    top: 75%
 }

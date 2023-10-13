@@ -3,7 +3,7 @@
     display: flex;
     object-fit:cover;
     height: 15rem;
-    width: 15rem;
+    width: 13rem;
     margin: auto;
 }
 
@@ -11,6 +11,7 @@ main {
     position: relative;
     width: 90vw;
     height: 50vh;
+    font-weight: bold;
 }
 
 #jordan {
@@ -28,5 +29,9 @@ top:50%
     position: absolute;
     left:68%;
     top:52%
-}
 
+}
+.img-with-text{
+    text-align: justify;
+    width: auto;
+}
