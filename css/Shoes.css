@@ -1,37 +1,16 @@
 
-.shoe {
-    display: flex;
-    object-fit:cover;
-    height: 15rem;
-    width: 13rem;
-    margin: auto;
-}
-
 main {
     position: relative;
     width: 90vw;
     height: 50vh;
     font-weight: bold;
+    display: flex;
+    text-align: center;
 }
-
-#jordan {
-position: absolute;
-left: 8%;
-top:50%
-}
-
-#chuck {
-    position: absolute;
-    left: 35%;
-    top:52%;
-}
-#dunk{
-    position: absolute;
-    left:68%;
-    top:52%
-
-}
-.img-with-text{
-    text-align: justify;
-    width: auto;
+.card{
+ position: relative;
+ top: 50%;
+ left:25%;
+ margin: 5px;
+ margin-bottom:-20px;
 }
